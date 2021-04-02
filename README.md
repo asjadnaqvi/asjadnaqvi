@@ -1,11 +1,6 @@
-HELLOWORLD
-
-### Welcome to my Github page!
-
-
-                                                    
-
+## HELLO WORLD
+### Welcome to my GitHub page!
 
 ---
 
-This page will be eventually updated.
+I will eventually updated this page.
