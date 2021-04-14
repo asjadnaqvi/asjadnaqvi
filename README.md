@@ -4,7 +4,9 @@
 ---
 
 CV here: https://asjadnaqvi.github.io/
+
 Stata Schemes here: https://github.com/asjadnaqvi/Stata-schemes
+
 The Stata Guide here: https://medium.com/the-stata-guide
 
 
