@@ -3,7 +3,7 @@
 
 ---
 
-CV here: https://asjadnaqvi.github.io/
+Bio here: https://asjadnaqvi.github.io/
 
 Stata Schemes here: https://github.com/asjadnaqvi/Stata-schemes
 
