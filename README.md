@@ -1,4 +1,3 @@
-## HELLO WORLD
 ### Welcome to my GitHub page!
 
 ---
@@ -11,5 +10,5 @@ The Stata Guide here: https://medium.com/the-stata-guide
 
 DRDID and CSDID here: https://github.com/friosavila/csdid_drdid
 
-I will eventually updated this space with more info ....
+I will eventually updated this space with more info.
 
