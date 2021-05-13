@@ -2,13 +2,13 @@
 
 ---
 
-Bio here: https://asjadnaqvi.github.io/
+:clock12: Bio here: https://asjadnaqvi.github.io/
 
-Stata Schemes here: https://github.com/asjadnaqvi/Stata-schemes
+:clock1: Stata Schemes here: https://github.com/asjadnaqvi/Stata-schemes
 
-The Stata Guide here: https://medium.com/the-stata-guide
+:clock2: The Stata Guide here: https://medium.com/the-stata-guide
 
-DRDID and CSDID here: https://github.com/friosavila/csdid_drdid
+:clock3: DRDID and CSDID here: https://github.com/friosavila/csdid_drdid
 
 I will eventually updated this space with more info.
 
