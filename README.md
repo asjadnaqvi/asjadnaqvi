@@ -11,6 +11,6 @@
 :clock3: DRDID and CSDID here: https://github.com/friosavila/csdid_drdid
 
 
-I will eventually updated this space with more info. <img align="right" alt="GIF" src="X5Nj.gif" width="100"/>
+I will eventually updated this space with more info. <img align="left" alt="GIF" src="X5Nj.gif" width="100"/>
 
 
