@@ -12,6 +12,3 @@
 
 I will eventually updated this space with more info.
 
-<p align="left">
-<a href="https://twitter.com/asjadnaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="asjadnaqvi" height="30" width="40" /></a>
-</p>
