@@ -10,6 +10,8 @@
 
 :clock3: DRDID and CSDID here: https://github.com/friosavila/csdid_drdid
 
+:clock4: The Code Block discord server for Stata coders here: https://discord.gg/vuaW7xdu 
+
 
 I will eventually updated this space with more info. 
 
