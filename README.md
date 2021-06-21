@@ -13,7 +13,7 @@
 :clock4: The **Code Block** Discord server for coders here: https://discord.gg/vuaW7xdu 
 
 
-I will eventually updated this space with more info. 
+This space will be eventually updated with more info. 
 
 <img align="left" alt="GIF" src="bubbles.gif" width="100"/>
 
