@@ -8,12 +8,11 @@
 
 :clock2: [TSG Stata Schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
-:clock3: (DRDID and CSDID)[https://github.com/friosavila/csdid_drdid]
+:clock3: The [**Code Block** Discord server](https://discord.gg/vuaW7xdu) for your Stata questions  
 
-:clock4: The [**Code Block** Discord server](https://discord.gg/vuaW7xdu) for your Stata questions  
+:clock4: [COVID-19 European NUTS-3/NUTS-2 Regional Tracker](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
-:clock5: [COVID-19 European NUTS-3/NUTS-2 Regional Tracker](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
-
+:clock5: [DRDID and CSDID](https://github.com/friosavila/csdid_drdid)
 
 This space will be eventually updated with more info. 
 
