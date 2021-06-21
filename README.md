@@ -2,7 +2,7 @@
 
 ---
 
-:clock12: [Bio](https://asjadnaqvi.github.io/)
+:clock12: [Homepage/Bio/CV](https://asjadnaqvi.github.io/)
 
 :clock1: [The Stata Guide on Medium](https://medium.com/the-stata-guide)
 
