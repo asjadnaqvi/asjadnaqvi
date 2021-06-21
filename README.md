@@ -14,8 +14,8 @@
 
 :clock5: [DRDID and CSDID](https://github.com/friosavila/csdid_drdid)
 
-This space will be eventually updated with more info. 
+This space will be eventually updated with more info soon. 
 
-<img align="left" alt="GIF" src="bubbles.gif" width="100"/> <img align="right" alt="GIF" src="X5Nj.gif" width="100"/> 
+<img align="left" alt="GIF" src="X5Nj.gif" width="100"/> 
 
 
