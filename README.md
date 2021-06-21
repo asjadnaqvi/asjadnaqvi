@@ -15,3 +15,12 @@
 :clock5: [**DRDID** and **CSDID**](https://github.com/friosavila/csdid_drdid)
 
 <img align="left" alt="GIF" src="X5Nj.gif" width="100"/> 
+
+
+
+
+
+
+[website]: https://asjadnaqvi.github.io/
+[twitter]: https://twitter.com/AsjadNaqvi
+[medium]: https://medium.com/the-stata-guide
