@@ -14,13 +14,29 @@
 
 :clock5: [**DRDID** and **CSDID**](https://github.com/friosavila/csdid_drdid)
 
-<img align="left" alt="GIF" src="X5Nj.gif" width="100"/> 
+
+<img align="right" alt="GIF" src="X5Nj.gif" width="100"/> 
 
 
+<br />
 
+### Connect
 
-
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/researchgate.svg" />][researchgate]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/googlescholar.svg" />][googlescholar]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Medium"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][medium]
+[<img align="left" alt="Medium"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
 
 [website]: https://asjadnaqvi.github.io/
 [twitter]: https://twitter.com/AsjadNaqvi
 [medium]: https://medium.com/the-stata-guide
+[discord]: https://discord.gg/vuaW7xdu
+[linkedin]:https://www.linkedin.com/in/asjad-naqvi-phd-9a539512/
+[researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
+[googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
+
+
+
