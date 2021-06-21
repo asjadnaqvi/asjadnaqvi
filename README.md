@@ -6,7 +6,7 @@
 
 :clock1: [The Stata Guide on Medium](https://medium.com/the-stata-guide)
 
-:clock2: [The Stata Guide Stata Schemes](https://github.com/asjadnaqvi/Stata-schemes)
+:clock2: [TSG Stata Schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
 :clock3: (DRDID and CSDID)[https://github.com/friosavila/csdid_drdid]
 
