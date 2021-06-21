@@ -4,13 +4,13 @@
 
 :clock12: Bio here: https://asjadnaqvi.github.io/
 
-:clock1: Stata Schemes here: https://github.com/asjadnaqvi/Stata-schemes
+:clock1: The Stata Guide on Medium here: https://medium.com/the-stata-guide
 
-:clock2: The Stata Guide on Medium here: https://medium.com/the-stata-guide
+:clock2: Stata Schemes here: https://github.com/asjadnaqvi/Stata-schemes
 
 :clock3: DRDID and CSDID here: https://github.com/friosavila/csdid_drdid
 
-:clock4: The **Code Block** Discord server for coders here: https://discord.gg/vuaW7xdu 
+:clock4: The **Code Block** Discord server for your Stata questions here: https://discord.gg/vuaW7xdu 
 
 
 This space will be eventually updated with more info. 
