@@ -12,7 +12,7 @@
 
 :clock4: [**COVID-19 European** NUTS-3/NUTS-2 **Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
-:clock5: [**DRDID** and **CSDID** (led by @friosavila)](https://github.com/friosavila/csdid_drdid)
+:clock5: [**DRDID** and **CSDID** Stata implementation (led by @friosavila)](https://github.com/friosavila/csdid_drdid)
 
 
 <img align="right" alt="GIF" src="X5Nj.gif" width="100"/> 
