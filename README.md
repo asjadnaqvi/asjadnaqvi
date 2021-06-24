@@ -10,7 +10,7 @@
 
 :clock3: [**The Code Block** Discord server](https://discord.gg/vuaW7xdu)
 
-:clock4: [**COVID-19 European** NUTS-3/NUTS-2 **Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
+:clock4: [**COVID-19 European Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
 
 <img align="right" alt="GIF" src="X5Nj.gif" width="100"/> 
