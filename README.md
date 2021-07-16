@@ -4,17 +4,19 @@
 
 :clock12: [Homepage/Bio/CV](https://asjadnaqvi.github.io/)
 
-:clock1: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide)
+:clock1: [Notes on the latest Difference-in-Difference (**DiD**) literature](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
 
-:clock2: [TSG **Stata Schemes**](https://github.com/asjadnaqvi/Stata-schemes)
+:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide)
 
-:clock3: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk)
+:clock3: [TSG **Stata Schemes**](https://github.com/asjadnaqvi/Stata-schemes)
 
-:clock4: [**Europe COVID-19 Regional Tracker**](https://asjadnaqvi.github.io/COVID19-European-Regional-Tracker/)
+:clock4: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk)
 
-:clock5: [**Austria COVID-19 Tracker**](https://asjadnaqvi.github.io/Austria-COVID-19-Tracker/)
+:clock5: [**Europe COVID-19 Regional Tracker**](https://asjadnaqvi.github.io/COVID19-European-Regional-Tracker/)
 
-:clock6: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
+:clock6: [**Austria COVID-19 Tracker**](https://asjadnaqvi.github.io/Austria-COVID-19-Tracker/)
+
+:clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
 
 <img align="right" alt="GIF" src="bubbles.gif" width="100"/> 
