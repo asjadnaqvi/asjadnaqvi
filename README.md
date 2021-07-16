@@ -4,7 +4,7 @@
 
 :clock12: [Homepage/Bio/CV](https://asjadnaqvi.github.io/)
 
-:clock1: [Notes on the latest Difference-in-Difference (**DiD**) literature](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
+:clock1: [Notes on the Difference-in-Difference (**DiD**) literature](https://github.com/asjadnaqvi/Diff-in-Diff-Notes)
 
 :clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide)
 
