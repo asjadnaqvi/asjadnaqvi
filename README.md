@@ -19,11 +19,9 @@
 :clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
 <br />
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" />  <img align="right" alt="GIF" src="bubbles.gif" width="100"/> 
-
 <br />
+
+
 
 ### Connect with me:
 
@@ -43,9 +41,15 @@
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 
+<br />
+<br />
+<br />
 
-<br />
-<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" />  <img align="right" alt="GIF" src="bubbles.gif" width="100"/> 
+
+
+
+
 
 ---
 
