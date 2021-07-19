@@ -18,9 +18,8 @@
 
 :clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
+<br />
 
-<br />
-<br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" />  <img align="right" alt="GIF" src="bubbles.gif" width="100"/> 
 
@@ -45,4 +44,10 @@
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 
 
+<br />
+<br />
+
+---
+
+*1: Mathematics is the language of nature. 2: Everything around us can be represented and understood through numbers. 3: If you graph the numbers of any system, patterns emerge. (Pi, 1998)*
 
