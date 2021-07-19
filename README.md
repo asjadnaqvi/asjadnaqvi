@@ -19,11 +19,14 @@
 :clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
 <br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" />
+
 <br />
 
-
-
 ### Connect with me:
+
+
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
@@ -32,6 +35,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Medium"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][medium]
 [<img align="left" alt="Medium"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
+ <img align="right" alt="GIF" src="bubbles.gif" width="80"/>
 
 [website]: https://asjadnaqvi.github.io/
 [twitter]: https://twitter.com/AsjadNaqvi
@@ -41,17 +45,13 @@
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 
+  
 <br />
-<br />
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" />  <img align="right" alt="GIF" src="bubbles.gif" width="100"/> 
-
-
-
 
 
 ---
+
+<br />
 
 *1: Mathematics is the language of nature. 2: Everything around us can be represented and understood through numbers. 3: If you graph the numbers of any system, patterns emerge. (Pi, 1998)*
 
