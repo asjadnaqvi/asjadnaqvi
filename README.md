@@ -19,12 +19,14 @@
 :clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
 
-<img align="right" alt="GIF" src="bubbles.gif" width="100"/> 
+<br />
+<br />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=html" alt="asjadnaqvi" />  <img align="right" alt="GIF" src="bubbles.gif" width="100"/> 
 
 <br />
 
-### Connect:
+### Connect with me:
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
