@@ -22,7 +22,7 @@
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=html" alt="asjadnaqvi" />  <img align="right" alt="GIF" src="bubbles.gif" width="100"/> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" />  <img align="right" alt="GIF" src="bubbles.gif" width="100"/> 
 
 <br />
 
