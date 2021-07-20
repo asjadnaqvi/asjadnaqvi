@@ -18,7 +18,7 @@
 
 :clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
----
+
  <img align="right" alt="GIF" src="bubbles.gif" width="80"/>
 
 ### Connect with me:
