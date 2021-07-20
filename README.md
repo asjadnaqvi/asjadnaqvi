@@ -18,7 +18,8 @@
 
 :clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
-
+---
+ <img align="right" alt="GIF" src="bubbles.gif" width="80"/>
 
 ### Connect with me:
 
@@ -31,7 +32,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Medium"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" />][medium]
 [<img align="left" alt="Medium"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg" />][discord]
- <img align="right" alt="GIF" src="bubbles.gif" width="80"/>
+
 
 [website]: https://asjadnaqvi.github.io/
 [twitter]: https://twitter.com/AsjadNaqvi
@@ -56,8 +57,10 @@
 
 [!["Buy Me A Coffee!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi)
 
-
 <br />
+<br />
+
+---
 
 *1: Mathematics is the language of nature. 2: Everything around us can be represented and understood through numbers. 3: If you graph the numbers of any system, patterns emerge. (Pi, 1998)*
 
