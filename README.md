@@ -53,9 +53,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" />
 
-<br />
 
-[!["Buy Me A Coffee!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi)
 
 <br />
 <br />
