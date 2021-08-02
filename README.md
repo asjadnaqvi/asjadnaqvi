@@ -12,7 +12,7 @@
 
 :clock4: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk)
 
-:clock5: [**Europe COVID-19 Regional Tracker**](https://asjadnaqvi.github.io/COVID19-European-Regional-Tracker/)
+:clock5: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
 :clock6: [**Austria COVID-19 Tracker**](https://github.com/asjadnaqvi/Austria-COVID-19-Tracker)
 
