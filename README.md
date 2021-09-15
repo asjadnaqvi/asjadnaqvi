@@ -57,7 +57,7 @@
 
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asjadnaqvi&show_icons=true&hide=prs,issues&hide_title=true)  --->
 
-<!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" />  --->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" /> 
 
 
  <!---*1: Mathematics is the language of nature. 2: Everything around us can be represented and understood through numbers. 3: If you graph the numbers of any system, patterns emerge. (Pi, 1998)* --->
