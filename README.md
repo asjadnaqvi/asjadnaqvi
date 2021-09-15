@@ -18,7 +18,7 @@
 
 :clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
-:clock8: [The Stata Guide's **Regular Expressions (regex) CHeatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/Stata_regex_cheatsheet_v1.pdf)
+:clock8: [The Stata Guide's **Regular Expressions (regex) CheatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/Stata_regex_cheatsheet_v1.pdf)
 
 :clock9: [The Stata Guide's **Mata CheatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/MATA_cheatsheet_v3.pdf)
 
