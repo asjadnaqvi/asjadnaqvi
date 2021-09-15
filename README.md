@@ -2,7 +2,7 @@
 
 ---
 
-:clock12: [Homepage/Bio/CV](https://asjadnaqvi.github.io/)
+:clock12: [Personal website](https://asjadnaqvi.github.io/)
 
 :clock1: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://github.com/asjadnaqvi/DiD)
 
@@ -17,6 +17,10 @@
 :clock6: [**Austria COVID-19 Tracker**](https://github.com/asjadnaqvi/Austria-COVID-19-Tracker)
 
 :clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
+
+:clock8: [The Stata Guide's **Regular Expressions (regex) CHeatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/Stata_regex_cheatsheet_v1.pdf)
+
+:clock8: [The Stata Guide's **Mata CheatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/MATA_cheatsheet_v3.pdf)
 
 
 <br />
