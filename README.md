@@ -2,7 +2,7 @@
 
 ---
 
-:clock12: [Personal website](https://asjadnaqvi.github.io/)
+:clock12: [**Personal website**](https://asjadnaqvi.github.io/)
 
 :clock1: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://asjadnaqvi.github.io/DiD/)
 
