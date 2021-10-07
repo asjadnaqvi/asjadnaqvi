@@ -46,7 +46,7 @@
 [twitter]: https://twitter.com/AsjadNaqvi
 [medium]: https://medium.com/the-stata-guide
 [discord]: https://discord.gg/qpHZtX6Xkk
-[linkedin]:https://www.linkedin.com/in/asjad-naqvi-phd-9a539512/
+[linkedin]:https://www.linkedin.com/in/asjadnaqvi
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 
