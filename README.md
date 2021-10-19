@@ -10,7 +10,7 @@
 
 :clock3: [TSG **Stata Schemes**](https://github.com/asjadnaqvi/Stata-schemes)
 
-:clock4: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk)
+:clock4: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk) (hop in for your Stata questions)
 
 :clock5: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
