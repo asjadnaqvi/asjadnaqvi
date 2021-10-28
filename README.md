@@ -8,7 +8,7 @@
 
 :clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) ([more info on GitHub](https://github.com/asjadnaqvi/The-Stata-Guide))
 
-:clock3: [TSG **Stata Schemes**](https://github.com/asjadnaqvi/Stata-schemes)
+:clock3: [**SCHEMEPACK**: A suite of Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
 :clock4: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk) *(hop in for your Stata questions)*
 
