@@ -10,17 +10,19 @@
 
 :clock3: [**SCHEMEPACK**: A suite of Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
-:clock4: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk) *(hop in for your Stata questions)*
+:clock4: [The Stata **Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery)
 
-:clock5: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
+:clock5: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk) *(hop in for your Stata questions)*
 
-:clock6: [**Austria COVID-19 Tracker**](https://github.com/asjadnaqvi/Austria-COVID-19-Tracker)
+:clock6: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
-:clock7: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
+:clock7: [**Austria COVID-19 Tracker**](https://github.com/asjadnaqvi/Austria-COVID-19-Tracker)
 
-:clock8: [The Stata Guide's **Regular Expressions (regex) CheatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/Stata_regex_cheatsheet_v1.pdf)
+:clock8: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
-:clock9: [The Stata Guide's **Mata CheatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/MATA_cheatsheet_v3.pdf)
+:clock9: [The Stata Guide's **Regular Expressions (regex) CheatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/Stata_regex_cheatsheet_v1.pdf)
+
+:clock10: [The Stata Guide's **Mata CheatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/MATA_cheatsheet_v3.pdf)
 
 
 <br />
