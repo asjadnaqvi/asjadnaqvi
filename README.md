@@ -10,7 +10,7 @@
 
 :clock3: [**SCHEMEPACK**: A suite of Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
-:clock4: [The Stata **Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery)
+:clock4: [The **Stata Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery) *(a portfolio of Stata figures and maps)*
 
 :clock5: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk) *(hop in for your Stata questions)*
 
