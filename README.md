@@ -57,13 +57,16 @@
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 [upwork]: https://www.upwork.com/freelancers/~010f9b79421dbba638
   
-<br />
+<br /><br />
 
+[!["Buy Me A Coffee!!!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi)
 
 
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asjadnaqvi&show_icons=true&hide=prs,issues&hide_title=true)  --->
 
 <!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" /> --->
+
+
 
 
  <!---*1: Mathematics is the language of nature. 2: Everything around us can be represented and understood through numbers. 3: If you graph the numbers of any system, patterns emerge. (Pi, 1998)* --->
