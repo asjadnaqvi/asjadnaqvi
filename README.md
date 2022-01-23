@@ -59,7 +59,7 @@
   
 <br /><br />
 
-[!["Buy Me A Coffee!!!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi)
+<!--- [!["Buy Me A Coffee!!!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi) --->
 
 
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asjadnaqvi&show_icons=true&hide=prs,issues&hide_title=true)  --->
