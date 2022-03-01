@@ -6,7 +6,11 @@
 
 :clock1: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://asjadnaqvi.github.io/DiD/)
 
-:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) ([more info on GitHub](https://github.com/asjadnaqvi/The-Stata-Guide))
+:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) (*external website*)
+
+   *   [Supporting info on GitHub](https://github.com/asjadnaqvi/The-Stata-Guide)
+   *   [Regular Expressions (regex) CheatSheet](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/Stata_regex_cheatsheet_v1.pdf)
+   *   [Mata CheatSheet](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/MATA_cheatsheet_v3.pdf)
 
 :clock3: [**SCHEMEPACK**: A suite of Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
@@ -14,7 +18,7 @@
 
 :clock5: [The **Stata Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery) *(a portfolio of Stata figures and maps)*
 
-:clock6: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk) *(hop in for your Stata questions)*
+:clock6: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk) *(external. Hop in for your Stata questions)*
 
 :clock7: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
@@ -22,9 +26,6 @@
 
 :clock9: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
-:clock10: [The Stata Guide's **Regular Expressions (regex) CheatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/Stata_regex_cheatsheet_v1.pdf)
-
-:clock11: [The Stata Guide's **Mata CheatSheet**](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/MATA_cheatsheet_v3.pdf)
 
 
 <br />
