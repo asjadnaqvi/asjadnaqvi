@@ -16,7 +16,7 @@
 
 :clock4: [**#30DayMapChallenge 2021**](https://github.com/asjadnaqvi/30DayMapChallenge2021)
 
-:clock5: [The **Stata Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery) *(a portfolio of Stata figures and maps)*
+:clock5: [The **Stata Graphs Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery) 
 
 :clock6: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk) *(external. Hop in for your Stata questions)*
 
