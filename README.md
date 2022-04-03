@@ -13,9 +13,9 @@
 -   [schemepack](https://github.com/asjadnaqvi/Stata-schemes): A suite of Stata schemes
 -   [drdid](https://github.com/friosavila/csdid_drdid): Doubly robust DiD estimator based on Sant'Anna and Zhao (2020)
 
-:clock4: [**#30DayMapChallenge 2021**](https://github.com/asjadnaqvi/30DayMapChallenge2021)
+:clock4: [**#30DayMapChallenge 2021**](https://github.com/asjadnaqvi/30DayMapChallenge2021) with Stata
 
-:clock5: [The **Stata Graphs Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery) *(under construction)*
+:clock5: [The **Stata Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery) *(under construction)*
 
 :clock6: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk)
 
