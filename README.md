@@ -6,19 +6,15 @@
 
 :clock1: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://asjadnaqvi.github.io/DiD/)
 
-:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) (*external website*) [(Supporting info on GitHub)](https://github.com/asjadnaqvi/The-Stata-Guide)
+:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) 
+-   [GitHub](https://github.com/asjadnaqvi/The-Stata-Guide) • [The Du Bois Challenge](https://github.com/asjadnaqvi/DuBoisChallenge-Stata) • [#30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021) • [Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
 :clock3: Stata packages:
 -   [delaunay](https://github.com/asjadnaqvi/stata-delaunay-voronoi): Delauanay triangulation, convex hull, voronoi tesselations
 -   [schemepack](https://github.com/asjadnaqvi/Stata-schemes): A suite of Stata schemes
 -   [drdid](https://github.com/friosavila/csdid_drdid): Doubly robust DiD estimator based on Sant'Anna and Zhao (2020)
 
-:clock4: [**#30DayMapChallenge 2021**](https://github.com/asjadnaqvi/30DayMapChallenge2021) with Stata
-
-:clock5: [The **Stata Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery) *(under construction)*
-
-:clock6: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
-
+:clock4: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
 
 <br />
