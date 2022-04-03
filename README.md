@@ -6,7 +6,7 @@
 
 :clock1: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://asjadnaqvi.github.io/DiD/)
 
-:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) (*external website*) [Supporting info on GitHub](https://github.com/asjadnaqvi/The-Stata-Guide)
+:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) (*external website*) [(Supporting info on GitHub)](https://github.com/asjadnaqvi/The-Stata-Guide)
 
 :clock3: Stata packages:
 -   [delaunay](https://github.com/asjadnaqvi/stata-delaunay-voronoi): Delauanay triangulation, convex hull, voronoi tesselations
@@ -17,13 +17,8 @@
 
 :clock5: [The **Stata Gallery**](https://asjadnaqvi.github.io/The-Stata-Gallery) *(under construction)*
 
-:clock6: [**The Code Block** Discord server](https://discord.gg/qpHZtX6Xkk)
+:clock6: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
-:clock7: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
-
-:clock8: [**Austria COVID-19 Tracker**](https://github.com/asjadnaqvi/Austria-COVID-19-Tracker)
-
-:clock9: [**Pakistan federal budgets**](https://asjadnaqvi.github.io/Pakistan-national-budgets/)
 
 
 <br />
