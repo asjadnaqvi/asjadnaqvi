@@ -10,9 +10,10 @@
 -   [GitHub](https://github.com/asjadnaqvi/The-Stata-Guide) • [The Du Bois Challenge](https://github.com/asjadnaqvi/DuBoisChallenge-Stata) • [#30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021) • [Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
 :clock3: Stata packages:
+-   [clipgeo](https://github.com/asjadnaqvi/stata-clipgeo): Polygon and polyline shapefile clipping
 -   [delaunay](https://github.com/asjadnaqvi/stata-delaunay-voronoi): Delauanay triangulation, convex hull, voronoi tesselations
 -   [schemepack](https://github.com/asjadnaqvi/Stata-schemes): A suite of Stata schemes
--   [drdid](https://github.com/friosavila/csdid_drdid): Doubly robust DiD estimator based on Sant'Anna and Zhao (2020)
+-   [drdid](https://github.com/friosavila/csdid_drdid): Doubly robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/)
 
 :clock4: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
