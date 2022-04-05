@@ -9,7 +9,9 @@
 :clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) 
 -   [GitHub](https://github.com/asjadnaqvi/The-Stata-Guide) • [The Du Bois Challenge](https://github.com/asjadnaqvi/DuBoisChallenge-Stata) • [#30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021) • [Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
-:clock3: My **Stata** packages:
+:clock3: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
+
+:clock4: My **Stata** packages:
 
 |Package|Version|Updated|Documentation|
 |----| ---- | ---- | ----- |
@@ -17,9 +19,6 @@
 | [delaunay](https://github.com/asjadnaqvi/stata-delaunay-voronoi) | 1.11 | 06.Mar.2022 | Delauanay triangulation, convex hull, voronoi tesselations |
 | [schemepack](https://github.com/asjadnaqvi/Stata-schemes) | 1.1 | 05.Mar.2022 | A suite of Stata schemes |
 | [drdid](https://github.com/friosavila/csdid_drdid) | 0.1 | 22.May.2021 | Doubly robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/) |
-
-
-:clock4: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
 
 <br />
