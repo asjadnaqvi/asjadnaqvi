@@ -9,7 +9,7 @@
 :clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) 
 -   [GitHub](https://github.com/asjadnaqvi/The-Stata-Guide) • [The Du Bois Challenge](https://github.com/asjadnaqvi/DuBoisChallenge-Stata) • [#30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021) • [Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
-:clock3: Stata packages:
+:clock3: **Stata packages**:
 -   [clipgeo](https://github.com/asjadnaqvi/stata-clipgeo): Polygon and polyline shapefile clipping
 -   [delaunay](https://github.com/asjadnaqvi/stata-delaunay-voronoi): Delauanay triangulation, convex hull, voronoi tesselations
 -   [schemepack](https://github.com/asjadnaqvi/Stata-schemes): A suite of Stata schemes
