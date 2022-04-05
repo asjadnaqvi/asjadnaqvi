@@ -9,7 +9,8 @@
 :clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) 
 -   [GitHub](https://github.com/asjadnaqvi/The-Stata-Guide) • [The Du Bois Challenge](https://github.com/asjadnaqvi/DuBoisChallenge-Stata) • [#30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021) • [Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
 
-:clock3: Stata packages:
+:clock3: My **Stata** packages:
+
 |Package|Version|Updated|Documentation|
 |----| ---- | ---- | ----- |
 | [clipgeo](https://github.com/asjadnaqvi/stata-clipgeo) | 1.0 | 04.Apr.2022 | Polygon and polyline shapefile clipping |
