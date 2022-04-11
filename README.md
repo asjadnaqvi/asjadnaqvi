@@ -15,6 +15,10 @@
 
 |Package|Version|Updated|Documentation|
 |----| ---- | ---- | ----- |
+
+| [bimap](https://github.com/asjadnaqvi/stata-bimap) | 1.0 | 08.Apr.2022 | Package for bi-variate maps |
+| [joyplot](https://github.com/asjadnaqvi/stata-joyplot) | 1.1 | 08.Apr.2022 | Package for joyplots |
+| [streamplot](https://github.com/asjadnaqvi/stata-streamplot) | 1.1 | 08.Apr.2022 | Package for streamplots |
 | [clipgeo](https://github.com/asjadnaqvi/stata-clipgeo) | 1.0 | 04.Apr.2022 | Polygon and polyline shapefile clipping |
 | [delaunay](https://github.com/asjadnaqvi/stata-delaunay-voronoi) | 1.11 | 06.Mar.2022 | Delauanay triangulation, convex hull, voronoi tesselations |
 | [schemepack](https://github.com/asjadnaqvi/Stata-schemes) | 1.1 | 05.Mar.2022 | A suite of Stata schemes |
