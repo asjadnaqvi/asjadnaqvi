@@ -15,7 +15,6 @@
 
 |Package|Version|Updated|Documentation|
 |----| ---- | ---- | ----- |
-
 | [bimap](https://github.com/asjadnaqvi/stata-bimap) | 1.0 | 08.Apr.2022 | Package for bi-variate maps |
 | [joyplot](https://github.com/asjadnaqvi/stata-joyplot) | 1.1 | 08.Apr.2022 | Package for joyplots |
 | [streamplot](https://github.com/asjadnaqvi/stata-streamplot) | 1.1 | 08.Apr.2022 | Package for streamplots |
