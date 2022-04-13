@@ -15,6 +15,7 @@
 
 |Package|Version|Updated|Documentation|
 |----| ---- | ---- | ----- |
+| [bimap](https://github.com/asjadnaqvi/stata-bimap) | 1.0 | 08.Apr.2022 | Package for bi-variate maps |
 | [joyplot](https://github.com/asjadnaqvi/stata-joyplot) | 1.1 | 08.Apr.2022 | Package for joyplots |
 | [streamplot](https://github.com/asjadnaqvi/stata-streamplot) | 1.1 | 08.Apr.2022 | Package for streamplots |
 | [clipgeo](https://github.com/asjadnaqvi/stata-clipgeo) | 1.0 | 04.Apr.2022 | Polygon and polyline shapefile clipping |
@@ -62,7 +63,7 @@
 
 <!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" /> --->
 
-<!--- | [bimap](https://github.com/asjadnaqvi/stata-bimap) | 1.0 | 08.Apr.2022 | Package for bi-variate maps | --->
+<!---  --->
 
 
  <!---*1: Mathematics is the language of nature. 2: Everything around us can be represented and understood through numbers. 3: If you graph the numbers of any system, patterns emerge. (Pi, 1998)* --->
