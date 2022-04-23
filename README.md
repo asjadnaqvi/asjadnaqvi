@@ -17,7 +17,7 @@
 |----| ---- | ---- | ----- |
 | [bimap](https://github.com/asjadnaqvi/stata-bimap) | 1.0 | 08.Apr.2022 | Package for bi-variate maps |
 | [joyplot](https://github.com/asjadnaqvi/stata-joyplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-joyplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-joyplot) | Package for ridgeline plots |
-| [streamplot](https://github.com/asjadnaqvi/stata-streamplot) | 1.1 | 08.Apr.2022 | Package for streamplots |
+| [streamplot](https://github.com/asjadnaqvi/stata-streamplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-streamplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-streamplot) | Package for streamplots |
 | [clipgeo](https://github.com/asjadnaqvi/stata-clipgeo) | 1.0 | 04.Apr.2022 | Polygon and polyline shapefile clipping |
 | [delaunay](https://github.com/asjadnaqvi/stata-delaunay-voronoi) | 1.11 | 06.Mar.2022 | Delauanay triangulation, convex hull, voronoi tesselations |
 | [schemepack](https://github.com/asjadnaqvi/Stata-schemes) | 1.1 | 05.Mar.2022 | A suite of Stata schemes |
