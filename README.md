@@ -20,7 +20,7 @@
 | [streamplot](https://github.com/asjadnaqvi/stata-streamplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-streamplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-streamplot) | Package for streamplots |
 | [delaunay](https://github.com/asjadnaqvi/stata-delaunay-voronoi) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-delaunay-voronoi) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-delaunay-voronoi) | Delauanay triangulation, convex hull, voronoi tesselations |
 | [clipgeo](https://github.com/asjadnaqvi/stata-clipgeo) | 1.0 | 04.Apr.2022 | Polygon and polyline shapefile clipping |
-| [schemepack](https://github.com/asjadnaqvi/Stata-schemes) | 1.1 | 05.Mar.2022 | A suite of Stata schemes |
+| [schemepack](https://github.com/asjadnaqvi/Stata-schemes) |  ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-schemes) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-scheme) | A suite of Stata schemes |
 | [drdid](https://github.com/friosavila/csdid_drdid) | 0.1 | 22.May.2021 | Doubly robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/) |
 
 
