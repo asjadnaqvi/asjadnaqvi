@@ -13,7 +13,7 @@
 
 :clock4: My **Stata** packages:
 
-|Package|Version|Updated|Documentation|
+|Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
 | [bimap](https://github.com/asjadnaqvi/stata-bimap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-bimap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-bimap) | Package for bi-variate maps |
 | [joyplot](https://github.com/asjadnaqvi/stata-joyplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-joyplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-joyplot) | Package for ridgeline plots |
