@@ -6,8 +6,7 @@
 
 :clock1: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://asjadnaqvi.github.io/DiD/)
 
-:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide) 
--   [GitHub](https://github.com/asjadnaqvi/The-Stata-Guide) • [The Du Bois Challenge](https://github.com/asjadnaqvi/DuBoisChallenge-Stata) • [#30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021) • [Stata schemes](https://github.com/asjadnaqvi/Stata-schemes)
+:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide). See [GitHub](https://github.com/asjadnaqvi/The-Stata-Guide) for details.
 
 :clock3: [**Europe COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
