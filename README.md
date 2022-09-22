@@ -8,7 +8,7 @@
 
 :clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide). See [GitHub](https://github.com/asjadnaqvi/The-Stata-Guide) for details.
 
-:clock3: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) ![release](https://img.shields.io/github/release-date/asjadnaqvi/COVID19-European-Regional-Tracker)
+:clock3: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) 
 
 :clock4: My **Stata** packages:
 
