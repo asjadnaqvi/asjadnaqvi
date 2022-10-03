@@ -29,6 +29,8 @@
 
 :clock5: Data scrape of Pakistan's [National Budgets](https://github.com/asjadnaqvi/Pakistan-national-budgets)
 
+:clock6: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
+
 <br />
 <br />
 
