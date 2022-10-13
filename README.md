@@ -10,10 +10,15 @@
 
 :clock3: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) 
 
-:clock4: My **Stata** packages:
+:clock4: Data scrape of Pakistan's [National Budgets](https://github.com/asjadnaqvi/Pakistan-national-budgets)
+
+:clock5: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
+
+:clock6: My **Stata** packages:
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
+| [spider](https://github.com/asjadnaqvi/stata-spider) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-spider) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-spider) | Package for spider plots |
 | [treemap](https://github.com/asjadnaqvi/stata-treemap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treemap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treemap) | Package for tree maps |
 | [circlepack](https://github.com/asjadnaqvi/stata-circlepack) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-circlepack) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-circlepack) | Package for circlepacking |
 | [arcplot](https://github.com/asjadnaqvi/stata-arcplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-arcplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-arcplot) | Package for arc plots |
@@ -27,9 +32,7 @@
 | [drdid](https://github.com/friosavila/csdid_drdid) | 0.1 | 22.May.2021 | Doubly robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/) |
 
 
-:clock5: Data scrape of Pakistan's [National Budgets](https://github.com/asjadnaqvi/Pakistan-national-budgets)
 
-:clock6: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
 
 <br />
 <br />
