@@ -6,18 +6,21 @@
 
 :clock1: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://asjadnaqvi.github.io/DiD/)
 
-:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide). See [GitHub](https://github.com/asjadnaqvi/The-Stata-Guide) for details.
+:clock2: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide). See [**GitHub**](https://github.com/asjadnaqvi/The-Stata-Guide) repository for more info.
 
-:clock3: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) 
+:clock3: [**The Stata Gallery** on Medium](https://medium.com/the-stata-gallery). See [**GitHub**](https://github.com/asjadnaqvi/The-Stata-Guide) repository for more info.
 
-:clock4: Data scrape of Pakistan's [National Budgets](https://github.com/asjadnaqvi/Pakistan-national-budgets)
+:clock4: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) 
 
-:clock5: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
+:clock5: Data scrape of Pakistan's [National Budgets](https://github.com/asjadnaqvi/Pakistan-national-budgets)
 
-:clock6: My **Stata** packages:
+:clock6: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
+
+:clock7: My **Stata** packages:
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
+| [circlebar](https://github.com/asjadnaqvi/stata-circlebar) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-circlebar) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-circlebar) | Package for polar bar graphs |
 | [spider](https://github.com/asjadnaqvi/stata-spider) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-spider) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-spider) | Package for spider plots |
 | [treemap](https://github.com/asjadnaqvi/stata-treemap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treemap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treemap) | Package for tree maps |
 | [circlepack](https://github.com/asjadnaqvi/stata-circlepack) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-circlepack) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-circlepack) | Package for circlepacking |
