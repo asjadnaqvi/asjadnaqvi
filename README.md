@@ -56,9 +56,7 @@
 [<img align="left" alt="Twitter"        width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Medium"         width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/medium.svg" />][medium]
 [<img align="left" alt="Discord"        width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/discord.svg" />][discord]
-[<img align="left" alt="UpWork"         width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/upwork.svg" />][upwork]
-
-
+[<img align="left" alt="Discord"        width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/mastodon.svg" />][mastodon]
 
 [website]: https://asjadnaqvi.github.io/
 [twitter]: https://twitter.com/AsjadNaqvi
@@ -67,19 +65,21 @@
 [linkedin]:https://www.linkedin.com/in/asjadnaqvi
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
-
+[mastodon]: https://econtwitter.net/@asjadnaqvi
   
 <br /><br />
 
 <!--- [!["Buy Me A Coffee!!!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi) --->
 
 <!--- [upwork]: https://www.upwork.com/freelancers/~010f9b79421dbba638 --->
+<!--- [<img align="left" alt="UpWork"         width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5.21.1/icons/upwork.svg" />][upwork]
+ --->
 
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asjadnaqvi&show_icons=true&hide=prs,issues&hide_title=true)  --->
 
 <!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" /> --->
 
-<!---  --->
+
 
 
  <!---*1: Mathematics is the language of nature. 2: Everything around us can be represented and understood through numbers. 3: If you graph the numbers of any system, patterns emerge. (Pi, 1998)* --->
