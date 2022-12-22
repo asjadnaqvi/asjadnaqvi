@@ -12,7 +12,7 @@
 
 :clock4: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) 
 
-:clock5: Data scrape of Pakistan's [National Budgets](https://github.com/asjadnaqvi/Pakistan-national-budgets)
+:clock5: Data scrape of Pakistan's [**National Budgets**](https://github.com/asjadnaqvi/Pakistan-national-budgets)
 
 :clock6: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
 
