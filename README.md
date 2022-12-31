@@ -6,7 +6,7 @@
 
 :clock1: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://asjadnaqvi.github.io/DiD/)
 
-:clock2: [**The StataViz Portfolio**]([https://medium.com/the-stata-guide](https://asjadnaqvi.github.io/stata-portfolio/).
+:clock2: [**The StataViz Portfolio**](https://asjadnaqvi.github.io/stata-portfolio/)
 
 :clock3: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide). See the [**GitHub**](https://github.com/asjadnaqvi/The-Stata-Guide) repository for more info.
 
