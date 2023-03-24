@@ -49,17 +49,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter"        width="25px" src="https://cdn.simpleicons.org/twitter" />][twitter]
-[<img align="left" alt="Mastodon"       width="25px" src="https://cdn.simpleicons.org/mastodon" />][mastodon]
-[<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.simpleicons.org/researchgate" />][researchgate]
-[<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
-[<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
-[<img align="left" alt="Discord"        width="25px" src="https://cdn.simpleicons.org/discord" />][discord]
-
-
-
 [website]: https://asjadnaqvi.github.io/
 [twitter]: https://twitter.com/AsjadNaqvi
 [medium]: https://medium.com/the-stata-guide
@@ -70,6 +59,16 @@
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 [mastodon]: https://econtwitter.net/@asjadnaqvi
 [buymeacoffee]: https://www.buymeacoffee.com/asjadnaqvi
+
+[<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Twitter"        width="25px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="Mastodon"       width="25px" src="https://cdn.simpleicons.org/mastodon" />][mastodon]
+[<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.simpleicons.org/researchgate" />][researchgate]
+[<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
+[<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
+[<img align="left" alt="Discord"        width="25px" src="https://cdn.simpleicons.org/discord" />][discord]
+
 
 <br />
 
