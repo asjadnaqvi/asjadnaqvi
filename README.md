@@ -46,8 +46,6 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="bubbles.gif" width="80"/>
-
 
 ### Connect with me:
 
@@ -59,8 +57,6 @@
 [<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
 [<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
 [<img align="left" alt="Discord"        width="25px" src="https://cdn.simpleicons.org/discord" />][discord]
-[<img align="left" alt="Etsy"           width="25px" src="https://cdn.simpleicons.org/etsy" />][etsy]
-[<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/buymeacoffee/005F0F" />][buymeacoffee]
 
 
 
@@ -74,7 +70,17 @@
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 [mastodon]: https://econtwitter.net/@asjadnaqvi
 [buymeacoffee]: https://www.buymeacoffee.com/asjadnaqvi
-  
+
+<br />
+
+<img align="right" alt="GIF" src="bubbles.gif" width="80"/>
+
+### Support me: 
+[<img align="left" alt="Etsy"           width="25px" src="https://cdn.simpleicons.org/etsy" />][etsy]
+[<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/buymeacoffee/0052CC" />][buymeacoffee]
+
+
+ 
 <br /><br />
 
 <!--- [!["Buy Me A Coffee!!!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi) --->
