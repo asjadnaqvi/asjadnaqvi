@@ -51,16 +51,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter"        width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Mastodon"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mastodon.svg" />][mastodon]
+[<img align="left" alt="Twitter"        width="25px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="Mastodon"       width="25px" src="https://cdn.simpleicons.org/mastodon" />][mastodon]
 [<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/researchgate.svg" />][researchgate]
-[<img align="left" alt="Google Scholar" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/googlescholar.svg" />][googlescholar]
-[<img align="left" alt="Medium"         width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/medium.svg" />][medium]
-[<img align="left" alt="Discord"        width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" />][discord]
-[<img align="left" alt="Etsy"           width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/etsy.svg" />][etsy]
-[<img align="left" alt="Buymeacoffee"   width="25px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/buymeacoffee.svg](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)" />][buymeacoffee]
+[<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.simpleicons.org/researchgate" />][researchgate]
+[<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
+[<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
+[<img align="left" alt="Discord"        width="25px" src="https://cdn.simpleicons.org/discord" />][discord]
+[<img align="left" alt="Etsy"           width="25px" src="https://cdn.simpleicons.org/etsy" />][etsy]
+[<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/buymeacoffee/005F0F" />][buymeacoffee]
 
 
 
