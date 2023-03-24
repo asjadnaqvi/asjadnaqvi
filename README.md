@@ -60,18 +60,20 @@
 [<img align="left" alt="Google Scholar" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/googlescholar.svg" />][googlescholar]
 [<img align="left" alt="Medium"         width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/medium.svg" />][medium]
 [<img align="left" alt="Discord"        width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/discord.svg" />][discord]
+[<img align="left" alt="Etsy"           width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/etsy.svg" />][etsy]
 
 
 
 [website]: https://asjadnaqvi.github.io/
 [twitter]: https://twitter.com/AsjadNaqvi
 [medium]: https://medium.com/the-stata-guide
+[etsy]: https://www.etsy.com/shop/ReviseResubmit
 [discord]: https://discord.gg/qpHZtX6Xkk
 [linkedin]:https://www.linkedin.com/in/asjadnaqvi
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 [mastodon]: https://econtwitter.net/@asjadnaqvi
-[post]: https://post.news/asjadnaqvi 
+
   
 <br /><br />
 
