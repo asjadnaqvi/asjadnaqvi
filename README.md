@@ -22,6 +22,7 @@
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
+| [bumpline](https://github.com/asjadnaqvi/stata-bumpline) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-bumpline) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-bumpline) | Package for bump line charts |
 | [treecluster](https://github.com/asjadnaqvi/stata-treecluster) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treecluster) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treecluster) | Package for clustered trees |
 | [sunburst](https://github.com/asjadnaqvi/stata-sunburst) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-sunburst) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-sunburst) | Package for sunburst diagrams |
 | [sankey](https://github.com/asjadnaqvi/stata-sankey) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-sankey) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-sankey) | Package for Sankey diagrams |
