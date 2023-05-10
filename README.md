@@ -8,17 +8,19 @@
 
 :clock2: [**The StataViz Portfolio**](https://asjadnaqvi.github.io/stata-portfolio/)
 
-:clock3: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide). See the [**GitHub**](https://github.com/asjadnaqvi/The-Stata-Guide) repository for more info.
+:clock3: [**The Stata Guide GitHub**](https://github.com/asjadnaqvi/The-Stata-Guide) repository with links and files.
 
-:clock4: [**The Stata Gallery** on Medium](https://medium.com/the-stata-gallery). See the [**GitHub**](https://github.com/asjadnaqvi/The-Stata-Guide) repository for more info.
+:clock4: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide).
 
-:clock5: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) 
+:clock5: [**The Stata Gallery** on Medium](https://medium.com/the-stata-gallery).
 
-:clock6: Data scrape of Pakistan's [**National Budgets**](https://github.com/asjadnaqvi/Pakistan-national-budgets)
+:clock6: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) 
 
-:clock7: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
+:clock7: Data scrape of Pakistan's [**National Budgets**](https://github.com/asjadnaqvi/Pakistan-national-budgets)
 
-:clock8: My **Stata** packages:
+:clock8: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
+
+:clock9: My **Stata** packages:
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
