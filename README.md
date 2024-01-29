@@ -40,7 +40,7 @@
 | [spider](https://github.com/asjadnaqvi/stata-spider) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-spider) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-spider) | Package for spider plots |
 | [streamplot](https://github.com/asjadnaqvi/stata-streamplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-streamplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-streamplot) | Package for streamplots |
 | [sunburst](https://github.com/asjadnaqvi/stata-sunburst) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-sunburst) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-sunburst) | Package for sunburst diagrams |
-| [treecluster](https://github.com/asjadnaqvi/stata-treecluster) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treecluster) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treecluster) | Package for tree graphs |
+| [treecluster](https://github.com/asjadnaqvi/stata-treecluster) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treecluster) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treecluster) | Package for tree plots |
 | [treemap](https://github.com/asjadnaqvi/stata-treemap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treemap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treemap) | Package for tree maps |
 
 
