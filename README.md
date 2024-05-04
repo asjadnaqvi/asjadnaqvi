@@ -16,11 +16,9 @@
 
 :clock6: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) 
 
-:clock7: Data scrape of Pakistan's [**National Budgets**](https://github.com/asjadnaqvi/Pakistan-national-budgets)
+:clock7: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
 
-:clock8: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
-
-:clock9: My **Stata** dataviz packages:
+:clock8: My **Stata** dataviz packages:
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
@@ -46,7 +44,7 @@
 | [waffle](https://github.com/asjadnaqvi/stata-waffle) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-waffle) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-waffle) | Package for waffle plots |
 
 
-:clock10: [drdid](https://github.com/friosavila/csdid_drdid): Doubly robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/)
+:clock9: [drdid](https://github.com/friosavila/csdid_drdid): Doubly robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/)
 
 
 <br />
