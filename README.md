@@ -57,7 +57,6 @@
 [website]: https://asjadnaqvi.github.io/
 [twitter]: https://twitter.com/AsjadNaqvi
 [medium]: https://medium.com/the-stata-guide
-[etsy]: https://www.etsy.com/shop/ReviseResubmit
 [discord]: https://discord.gg/qpHZtX6Xkk
 [linkedin]:https://www.linkedin.com/in/asjadnaqvi
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
@@ -80,7 +79,6 @@
 <img align="right" alt="GIF" src="bubbles.gif" width="80"/>
 
 ### Support me: 
-[<img align="left" alt="Etsy"           width="25px" src="https://cdn.simpleicons.org/etsy" />][etsy]
 [<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/buymeacoffee/0052CC" />][buymeacoffee]
 [Sponsor on GitHub](https://github.com/sponsors/asjadnaqvi)
 
