@@ -52,12 +52,18 @@
 <br />
 
 
+### Join the Code Block Discord server:
+
+[discord]: https://discord.gg/qpHZtX6Xkk
+[<img align="left" alt="Discord"        width="25px" src="https://cdn.simpleicons.org/discord" />][discord]
+
+<br />
+
 ### Connect with me:
 
 [website]: https://asjadnaqvi.github.io/
 [X]: https://twitter.com/AsjadNaqvi
 [medium]: https://medium.com/the-stata-guide
-[discord]: https://discord.gg/qpHZtX6Xkk
 [linkedin]:https://www.linkedin.com/in/asjadnaqvi
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
@@ -69,7 +75,7 @@
 [<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.simpleicons.org/researchgate" />][researchgate]
 [<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
 [<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
-[<img align="left" alt="Discord"        width="25px" src="https://cdn.simpleicons.org/discord" />][discord]
+
 
 
 <br />
@@ -77,7 +83,7 @@
 <img align="right" alt="GIF" src="bubbles.gif" width="80"/>
 
 
-### Support me: 
+### Support this page: 
 [<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/buymeacoffee/0052CC" />][buymeacoffee]
 [Sponsor on GitHub](https://github.com/sponsors/asjadnaqvi)
 
@@ -93,8 +99,6 @@
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asjadnaqvi&show_icons=true&hide=prs,issues&hide_title=true)  --->
 
 <!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" /> --->
-
-
 
 
  <!---*1: Mathematics is the language of nature. 2: Everything around us can be represented and understood through numbers. 3: If you graph the numbers of any system, patterns emerge. (Pi, 1998)* --->
