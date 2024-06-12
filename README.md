@@ -8,11 +8,11 @@
 
 :clock2: [**The StataViz Portfolio**](https://asjadnaqvi.github.io/stata-portfolio/)
 
-:clock3: [**The Stata Guide GitHub**](https://github.com/asjadnaqvi/The-Stata-Guide) repository with links and files.
+:clock3: [**The Stata Guide** repository on **GitHub**](https://github.com/asjadnaqvi/The-Stata-Guide)
 
-:clock4: [**The Stata Guide** on Medium](https://medium.com/the-stata-guide).
+:clock4: [**The Stata Guide** on **Medium**](https://medium.com/the-stata-guide)
 
-:clock5: [**The Stata Gallery** on Medium](https://medium.com/the-stata-gallery).
+:clock5: [**The Stata Gallery** on **Medium**](https://medium.com/the-stata-gallery)
 
 :clock6: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
