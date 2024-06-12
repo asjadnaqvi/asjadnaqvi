@@ -14,7 +14,7 @@
 
 :clock5: [**The Stata Gallery** on Medium](https://medium.com/the-stata-gallery).
 
-:clock6: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker) ![version](https://img.shields.io/github/v/release/asjadnaqvi/COVID19-European-Regional-Tracker) 
+:clock6: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
 :clock7: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
 
