@@ -64,6 +64,7 @@
 
 [website]: https://asjadnaqvi.github.io/
 [X]: https://twitter.com/AsjadNaqvi
+[bluesky]: [https://twitter.com/AsjadNaqvi](https://bsky.app/profile/asjadnaqvi.bsky.social)
 [medium]: https://medium.com/the-stata-guide
 [linkedin]:https://www.linkedin.com/in/asjadnaqvi
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
@@ -73,6 +74,7 @@
 [<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="X"        width="25px" src="https://cdn.simpleicons.org/X" />][X]
 [<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="Bluesky"         width="25px" src="https://cdn.simpleicons.org/bluesky" />][bluesky]
 [<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.simpleicons.org/researchgate" />][researchgate]
 [<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
 [<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
