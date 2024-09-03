@@ -1,4 +1,16 @@
-### Welcome to my GitHub page!
+[<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="X"        width="25px" src="https://cdn.simpleicons.org/X" />][X]
+[<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="Bluesky"         width="25px" src="https://cdn.simpleicons.org/bluesky" />][bluesky]
+[<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
+[<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
+[<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.simpleicons.org/researchgate" />][researchgate]
+[<img align="left" alt="Discord"        width="25px" src="https://cdn.simpleicons.org/discord" />][discord]
+[<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/buymeacoffee" />][buymeacoffee]
+[<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/github" />][githubsponsor]
+<img align="right" alt="GIF" src="bubbles.gif" width="60"/>
+
+<br />
 
 ---
 
@@ -18,7 +30,12 @@
 
 :clock7: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
 
-:clock8: My **Stata** dataviz packages:
+:clock8: [drdid](https://github.com/friosavila/csdid_drdid): Doubly robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/)
+
+:clock9: Data scrape of Pakistan's [**National Budgets**](https://github.com/asjadnaqvi/Pakistan-national-budgets)
+
+:clock10: My **Stata dataviz** packages:
+
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
@@ -45,22 +62,7 @@
 | [waffle](https://github.com/asjadnaqvi/stata-waffle) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-waffle) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-waffle) | Package for waffle plots |
 
 
-:clock9: [drdid](https://github.com/friosavila/csdid_drdid): Doubly robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/)
 
-:clock10: Data scrape of Pakistan's [**National Budgets**](https://github.com/asjadnaqvi/Pakistan-national-budgets)
-
-<br />
-<br />
-
-
-### Join the Code Block Discord server:
-
-[discord]: https://discord.gg/qpHZtX6Xkk
-[<img align="left" alt="Discord"        width="25px" src="https://cdn.simpleicons.org/discord" />][discord]
-
-<br />
-
-### Connect with me:
 
 [website]: https://asjadnaqvi.github.io/
 [X]: https://twitter.com/AsjadNaqvi
@@ -70,28 +72,14 @@
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 [buymeacoffee]: https://www.buymeacoffee.com/asjadnaqvi
-
-[<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="X"        width="25px" src="https://cdn.simpleicons.org/X" />][X]
-[<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" alt="Bluesky"         width="25px" src="https://cdn.simpleicons.org/bluesky" />][bluesky]
-[<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.simpleicons.org/researchgate" />][researchgate]
-[<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
-[<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
+[discord]: https://discord.gg/qpHZtX6Xkk
+[githubsponsor]: [https://discord.gg/qpHZtX6Xkk](https://github.com/sponsors/asjadnaqvi)
 
 
 
-<br />
-
-<img align="right" alt="GIF" src="bubbles.gif" width="80"/>
-
-
-### How to support: 
-[<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/buymeacoffee/0052CC" />][buymeacoffee]
-[Sponsor on GitHub](https://github.com/sponsors/asjadnaqvi)
 
  
-<br /><br />
+<br />
 
 <!--- [!["Buy Me A Coffee!!!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi) --->
 
@@ -102,7 +90,6 @@
 <!--- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asjadnaqvi&show_icons=true&hide=prs,issues&hide_title=true)  --->
 
 <!--- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&layout=compact&hide=batchfile" alt="asjadnaqvi" /> --->
-
 
  <!---*1: Mathematics is the language of nature. 2: Everything around us can be represented and understood through numbers. 3: If you graph the numbers of any system, patterns emerge. (Pi, 1998)* --->
 
