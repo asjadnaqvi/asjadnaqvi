@@ -1,13 +1,13 @@
 [<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="X"        width="25px" src="https://cdn.simpleicons.org/X" />][X]
+[<img align="left" alt="X"              width="25px" src="https://cdn.simpleicons.org/X" />][X]
 [<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-[<img align="left" alt="Bluesky"         width="25px" src="https://cdn.simpleicons.org/bluesky" />][bluesky]
+[<img align="left" alt="Bluesky"        width="25px" src="https://cdn.simpleicons.org/bluesky" />][bluesky]
 [<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
 [<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
 [<img align="left" alt="ResearchGate"   width="25px" src="https://cdn.simpleicons.org/researchgate" />][researchgate]
 [<img align="left" alt="Discord"        width="25px" src="https://cdn.simpleicons.org/discord" />][discord]
 [<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/buymeacoffee" />][buymeacoffee]
-[<img align="left" alt="Buymeacoffee"   width="25px" src="https://cdn.simpleicons.org/github" />][githubsponsor]
+[<img align="left" alt="githubsponsor"   width="25px" src="https://cdn.simpleicons.org/github" />][githubsponsor]
 <img align="right" alt="GIF" src="bubbles.gif" width="60"/>
 
 <br />
@@ -66,14 +66,14 @@
 
 [website]: https://asjadnaqvi.github.io/
 [X]: https://twitter.com/AsjadNaqvi
-[bluesky]: [https://twitter.com/AsjadNaqvi](https://bsky.app/profile/asjadnaqvi.bsky.social)
+[bluesky]: https://bsky.app/profile/asjadnaqvi.bsky.social
 [medium]: https://medium.com/the-stata-guide
 [linkedin]:https://www.linkedin.com/in/asjadnaqvi
 [researchgate]: https://www.researchgate.net/profile/Asjad-Naqvi-2
 [googlescholar]: https://scholar.google.com/citations?user=oWGGVpYAAAAJ&hl=en
 [buymeacoffee]: https://www.buymeacoffee.com/asjadnaqvi
 [discord]: https://discord.gg/qpHZtX6Xkk
-[githubsponsor]: [https://discord.gg/qpHZtX6Xkk](https://github.com/sponsors/asjadnaqvi)
+[githubsponsor]: https://github.com/sponsors/asjadnaqvi
 
 
 
