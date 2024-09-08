@@ -65,7 +65,7 @@
 
 ---
 
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=asjadnaqvi&theme=transparent" /> <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&theme=transparent&hide=javascript,html,ruby,css,batchfile" />
+<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=asjadnaqvi&theme=transparent" /> <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asjadnaqvi&theme=transparent&hide=javascript,ruby,css,batchfile" />
 
 [website]: https://asjadnaqvi.github.io/
 [X]: https://twitter.com/AsjadNaqvi
