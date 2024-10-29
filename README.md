@@ -16,9 +16,9 @@
 
 :clock12: [**Personal website**](https://asjadnaqvi.github.io/)
 
-:clock1: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://asjadnaqvi.github.io/DiD/)
+:clock1: [**StataViz Portfolio**](https://asjadnaqvi.github.io/stata-portfolio/)
 
-:clock2: [**The StataViz Portfolio**](https://asjadnaqvi.github.io/stata-portfolio/)
+:clock2: [Notes on the recent **Difference-in-Difference (DiD)** literature](https://asjadnaqvi.github.io/DiD/)
 
 :clock3: [**The Stata Guide** repository on **GitHub**](https://github.com/asjadnaqvi/The-Stata-Guide)
 
