@@ -1,6 +1,6 @@
 [<img align="left" alt="Website"        width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="X"              width="25px" src="https://cdn.simpleicons.org/X" />][X]
-[<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="LinkedIn"       width="25px" src="https://cdn.simpleicons.org/logmein" />][linkedin]
 [<img align="left" alt="Bluesky"        width="25px" src="https://cdn.simpleicons.org/bluesky" />][bluesky]
 [<img align="left" alt="Medium"         width="25px" src="https://cdn.simpleicons.org/medium" />][medium]
 [<img align="left" alt="Google Scholar" width="25px" src="https://cdn.simpleicons.org/googlescholar" />][googlescholar]
