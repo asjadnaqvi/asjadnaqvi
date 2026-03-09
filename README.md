@@ -66,7 +66,7 @@
 | [treemap](https://github.com/asjadnaqvi/stata-treemap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treemap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treemap) | Package for tree maps |
 | [trimap](https://github.com/asjadnaqvi/stata-trimap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-trimap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-trimap) | Package for tri-variate maps |
 | [waffle](https://github.com/asjadnaqvi/stata-waffle) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-waffle) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-waffle) | Package for waffle plots |
-
+| [vcontrol](https://github.com/asjadnaqvi/stata-vcontrol) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-vcontrol) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-vcontrol) | Package for version control |
 
 
 
