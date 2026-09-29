@@ -28,7 +28,7 @@
 
 :clock6: [**Europe's COVID-19 Regional Tracker**](https://github.com/asjadnaqvi/COVID19-European-Regional-Tracker)
 
-:clock7: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021)
+:clock7: [30DayMapChallenge 2021](https://github.com/asjadnaqvi/30DayMapChallenge2021), [30DayChartChallenge 2026](https://github.com/asjadnaqvi/30daychartchallenge2026) 
 
 :clock8: [drdid](https://github.com/friosavila/csdid_drdid): Stata Doubly Robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/)
 
